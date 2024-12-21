@@ -86,6 +86,9 @@ To install the **silver** or **platinum**:
   </a>
 </div>
 
+## website
+[Noted](https://not-ed.netlify.app/)
+
 
 
 ## Contributing
