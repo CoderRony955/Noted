@@ -1,0 +1,67 @@
+#Noted{
+	background-color: #151700;
+
+}
+#text_area{
+	border-radius: 10px;
+}
+#copy_button{
+	border-radius: 14px;
+	background-color: #ffffff;
+	color: #000000;
+}
+#copy_button:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+#cut_button{
+	border-radius: 14px;
+	background-color: #1c0002;
+	color: #ffffff;
+}
+#cut_button:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+#paste_button{
+	border-radius: 14px;
+	background-color: #080024;
+	color: #ffffff;
+}
+#paste_button:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+#undo_button{
+	border-radius: 14px;
+	background-color: #001c04;
+	color: #ffffff;
+}
+#undo_button:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+#redo_button{
+	border-radius: 14px;
+	background-color: #00191a;
+	color: #ffffff;
+}
+#redo_button:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+
+#clear_button{
+	border-radius: 14px;
+	background-color: #0b011a;
+	color: #ffffff;
+}
+#clear_button:hover{
+	background-color: #000000;
+	color: #ffffff;
+}
+#theme_button{
+	border-radius: 14px;
+	background-color: #ffffff;
+	color: #000000;
+}
