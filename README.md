@@ -20,7 +20,7 @@ Welcome to the **Noted✔️** rich text editor App! This project features two v
 ##
 
 
-<img src="icons\Noted_s_banner.png" width="500" style="margin-top: 0px; text-align: center; border-radius: 10px;" />
+<img src="icons\Noted_s_banner.png" width="700" style="margin-top: 0px; text-align: center; border-radius: 10px;" />
 
 
 
@@ -38,7 +38,7 @@ The **Silver Version** is a simple, no-fuss text editor app designed for users w
 
 
 ##
-<img src="icons_pv\Noted_p_banner.png" width="500" style="margin-top: 0px; text-align: center; border-radius: 10px; " /> 
+<img src="icons_pv\Noted_p_banner.png" width="700" style="margin-top: 0px; text-align: center; border-radius: 10px; " /> 
 
 
 
