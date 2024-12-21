@@ -26,7 +26,7 @@ Welcome to the **Noted✔️** rich text editor App! This project features two v
 
 The **Silver Version** is a simple, no-fuss text editor app designed for users who just need the basics. It offers:
 - **Few themes options**: Black, White, and Silver
-<img src="web_\noted_s_themes.png" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px; " />
+<img src="web_\noted_s_themes.png" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px; " />
 
 - **Basic text editing features**  (similar to Notepad)
 
@@ -47,19 +47,19 @@ The **Platnium Version** is a more advanced edition with additional options. It 
 
 - **Multiple Themes**: Choose from a variety of themes to suit your aesthetic needs
   
-<img src="imgs\theme_support.png" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
+<img src="imgs\theme_support.png" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
 
 - **Font Customization**: Change the font style and size for better readability
   
-<img src="web_\noted_p_fonts.png" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
+<img src="web_\noted_p_fonts.png" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
 
 - **Shortcuts**: Quick access to frequently used apps and functions directly from the Gold version app
   
-<img src="imgs\Noted_quick_app_shortcut.png" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
+<img src="imgs\Noted_quick_app_shortcut.png" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
 
 - **More Features**: Additional settings and preferences for power users
   
-<img src="web_\quick.png" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
+<img src="web_\quick.png" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
 <img src="Video_gifs\Noted_p.gif" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
 
 ## Installation Instructions
