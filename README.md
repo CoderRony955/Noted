@@ -90,14 +90,13 @@ To install the **silver** or **platinum**:
 
 ## Contributing
 
+We welcome contributions from the community! To contribute to this project, please follow these steps:
 
-We welcome contributions to our project! To ensure a smooth collaboration process.
-
-
-**Fork the Repository**:  
-   Click the "Fork" button at the top-right corner of this repository to create your own copy.
-
-
+1. **Fork** the repository.
+2. **Create a new branch** for your feature or bug fix.
+3. **Make your changes** and commit them with descriptive messages.
+4. **Push your changes** to your fork.
+5. **Create a pull request** from your fork to the main repository.
 
 
 ## License
