@@ -30,7 +30,7 @@ The **Silver Version** is a simple, no-fuss text editor app designed for users w
 
 - **Basic text editing features**  (similar to Notepad)
 
-<img src="Video_gifs\Noted_s.gif" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px; " />
+<img src="Video_gifs\Noted_s.gif" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px; " />
 
 - **Lightweight and fast performance**
 - **Easy-to-use interface**
@@ -60,7 +60,7 @@ The **Platnium Version** is a more advanced edition with additional options. It 
 - **More Features**: Additional settings and preferences for power users
   
 <img src="web_\quick.png" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
-<img src="Video_gifs\Noted_p.gif" width="500" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
+<img src="Video_gifs\Noted_p.gif" width="600" style="margin-top: 10px; text-align: center; border-radius: 10px;" />
 
 ## Installation Instructions
 
